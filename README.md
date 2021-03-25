@@ -1,5 +1,5 @@
-## CSID_friendly_foods
-# An app that helps people diagnosed with CSID figure out which foods have sucrose and starch
+# CSID_friendly_foods
+## An app that helps people diagnosed with CSID figure out which foods have sucrose and starch
 People with CSID have little to no sucrase, the enzyme needed to digest sucralose. They have to completely cut out sucrose from their diet (or take expensive medicine) and usually have to limit their starch intake. Sucrase assists in starch digestion, but depending on the type of starch and how complex it is, sucrose may not be needed for digestion.
 
 # 1. What goal will your website be designed to achieve? 
